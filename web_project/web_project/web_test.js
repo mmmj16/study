@@ -3,5 +3,5 @@ function onClick () {
 }
 
 function aFunction () {
-    console.warn('')
+    console.warn('zzzzzzz')
 }
